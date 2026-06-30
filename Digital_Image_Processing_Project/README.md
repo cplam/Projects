@@ -1,5 +1,4 @@
-# rey_code
-
+# Digital Imaging Processing for beauty
 ## Project Overview
 This project implements an image segmentation pipeline for skin regions. The main methods include:
 - Skin-threshold segmentation in the YCbCr color space
